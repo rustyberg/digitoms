@@ -1,0 +1,27 @@
+This is a Processing 2.0 implementation of the Digitom family tool.
+
+To install:
+
+1) Extract the files into a folder called "digitoms"
+2) Move the folder to your processing sketch folded.
+3) In Processing, choose "open" and select digitoms.
+4) Click the run button.
+
+
+Usage:
+
+The left and right arrow keys move you between families. To the left are
+are pre-defined families, to the right are new, random families. If you
+modify a pre-defined family a new, duplicate family will be created which
+you can choose to save or discard.
+
+The keyboard commands are listed on the right panel along with the current
+values for each parameter. The 'm' command cycles through the modes (really
+layers) and allows changes to a particular layer. In 'All" mode changes are
+applied to all layers.
+
+When you capture ('c' or 'C' command to create a .png or .pdf file) or save a family the file will be saved in the folder Documents/DigiData.
+
+Have fun!
+
+Bugs to rusty@coho.org

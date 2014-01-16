@@ -1,0 +1,63 @@
+Family
+
+Digitom control keys
+
+General
+  lt/rt Prev/New digitom family
+  up/dn Previous/next digitom in family
+  aA    Rotation count (angle) -/+
+  bB    Background -/+
+  cC    Capture image in png/PDF
+  eE    Error % -/+
+  i     Info on/off
+  lL    Line weight -/+
+  m     Mode (cycle through Shapes, Spiro, Curves, All)
+  nN    Background color -/+
+  zZ    Zoom in/out
+
+Color controls
+  hH    Hue midpoint -/+
+  ()    Hue range -/+
+  sS    Saturation midpoint -/+
+  {}    Saturation range -/+
+  vV    Value (Brightness) midpoint -/+
+  []    Value range -/+
+  oO    Opacity midpoint -/+
+  <>    Opacity range -/+
+
+Curves mode
+  -+    Decrease/increase lines
+
+Shapes mode
+  -+    Decrease/increase # shapes
+  f     Fill on/off
+  1     Elipse on/off
+  2     Triangles on/off
+  3     Quads on/off
+  4     Rects on/off
+  5     Stars on/off
+  6     Petals on/off
+  7     Flowers on/off
+  8     Hearts on/off
+
+Spiro mode
+  -+    Decrease/increase times around the wheel
+  jJ    Decrease/increase jagginess
+  dD    Drive wheel radius -/+
+  pP    Pen radius within drive wheel -/+
+  wW    Stationary wheel radius -/+
+
+All mode  
+  -+    Decrease/increase count (# shapes, lines, rotations)
+
+Start color
+  Hue
+  Sat
+  Val
+  Opa
+
+End Color
+  Hue
+  Sat
+  Val
+  Opa
