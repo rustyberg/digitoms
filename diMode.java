@@ -3,8 +3,8 @@ public enum diMode {
   
   public diMode next()  
     {  
-      int index = (this.ordinal() + 1) % this.values().length;  
-        return this.values()[index];  
+      int index = (this.ordinal() + 1) % diMode.values().length;  
+        return diMode.values()[index];  
      }
    
    public static diMode parseMode(String str) {
